@@ -1,0 +1,1 @@
+var json_NVRLocation_7 = {"type":"FeatureCollection","name":"NVRLocation_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Location":"Office","Name":"NVR"},"geometry":{"type":"Point","coordinates":[-92.185077150757223,31.689453840239928]}}]}
